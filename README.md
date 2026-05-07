@@ -28,7 +28,7 @@ tic-tac-toe/
 ## ▶️ How to Run the Project
 Clone the repository
 ```md
-   git clone https://github.com/Aditya-star-0/tic-tac-toe.git
+   git clone https://github.com/Aditya-star-0/Tic-Tac-Toe.git
 ```
 Open index.html in your browser
 
